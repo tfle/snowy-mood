@@ -1,3 +1,5 @@
-# [rainymood-clone](https://tfle.github.io/rainymood-clone/)
+# [Snowy Mood](https://tfle.github.io/snowy-mood/)
 
-Just a quick and dirty website for a friend that does what [rainymood.com](https://rainymood.com) does. But it's different because it has snow (courtesy of [Canop/snow](https://github.com/Canop/snow)).
+A website that does what [rainymood.com](https://rainymood.com) does. 
+
+But it's different because it has snow (courtesy of [Canop/snow](https://github.com/Canop/snow)).
